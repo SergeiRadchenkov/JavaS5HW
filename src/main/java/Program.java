@@ -12,7 +12,7 @@ public class Program {
             System.out.println("==========================");
             System.out.println("1 - Добавить запись в телефонную книгу");
             System.out.println("2 - Найти контакт в телефонной книге");
-            System.out.println("3 - Вывести понтакты телефонной книги");
+            System.out.println("3 - Вывести контакты телефонной книги");
             System.out.println("0 - Завершение работы приложения");
             System.out.println("================================");
             System.out.print("Укажите номер задачи: ");
